@@ -48,6 +48,6 @@ for($i=1;$i<=9;$i++){
 print_r($ninenine);
 
 echo "<br>";
-echo $ninenine ["55"];
+echo $ninenine ["93"];
 ?>
     
